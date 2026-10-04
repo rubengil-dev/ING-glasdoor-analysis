@@ -1,0 +1,13 @@
+# Recommended Python: 3.11 or 3.12 (BERTopic/numba can fail on 3.13)
+numpy
+pandas
+pyarrow
+openpyxl
+matplotlib
+seaborn
+ipykernel
+nltk
+torch
+transformers
+sentence-transformers
+bertopic

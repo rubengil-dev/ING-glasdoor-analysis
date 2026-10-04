@@ -1,0 +1,15 @@
+# FOLDERS
+data/
+outputs/
+
+# FILES
+*.pdf
+*ejemplo*
+
+# CONFIG
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
