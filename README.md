@@ -173,3 +173,4 @@ jupyter notebook exercise.ipynb
 ```
 
 The first run of the sentiment analysis took around 1:30h, so the notebook saves checkpoints in `outputs/` and reuses them afterwards. Delete those files if you change the sample.
+
